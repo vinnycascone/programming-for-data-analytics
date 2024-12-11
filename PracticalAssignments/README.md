@@ -36,7 +36,7 @@ This repository contains the assignments completed as part of the **Programming 
 
 ### **Assignment 5: Risk Simulation**
 - **Task**:
-  - Created a program or notebook named `assignment_5_risk` (`.py` or `.ipynb`).
+  - Created a notebook named `assignment_5_risk.ipynb`.
   - Simulated **1000 individual battle rounds** in the game Risk (3 attackers vs. 2 defenders).
   - Plotted the results of the simulations.
 - **Highlights**:
@@ -47,7 +47,7 @@ This repository contains the assignments completed as part of the **Programming 
 
 ### **Assignment 6: Knock Airport Weather Analysis**
 - **Task**:
-  - Created a Python file or notebook named `assignment_6_Weather` (`.py` or `.ipynb`).
+  - Created a notebook named `assignment_6_Weather.ipynb`.
   - Analyzed weather data from [Knock Airport Climate Data](https://cli.fusio.net/cli/climate_data/webdata/hly4935.csv).
   - Plotted various metrics including:
     - Hourly temperature.
@@ -76,24 +76,20 @@ This repository contains the assignments completed as part of the **Programming 
 
 ## **How to Access the Repository**
 Choose one of the following repository formats:
-1. **Single Repository Structure**:
-   - Repository contains three folders: `assignments`, `mywork`, `project`.
-   - Access the relevant folder for each submission.
+**Repository Structure**:
+   - Through the main repository 'Programming for Data Analytics' that contains three repositories:
 
-2. **Multiple Repository Structure**:
-   - Separate repositories:
      - `PFDA-assignments`: Assignments 2, 3, 5, and 6.
      - `PFDA-mywork`: Independent exploration and work.
      - `PFDA-project`: Final project repository.
+   - Access the 'assignment' folder to see each submission.
 
-Please follow the links provided in the assignment submission system for access.
 
 ---
 
 ## **Notes**
 - All code is thoroughly commented for ease of understanding.
 - All plots include proper labels, titles, and legends for clarity.
-- Feedback from assignments has been incorporated into subsequent submissions.
 
 
 ## **References**
@@ -168,7 +164,7 @@ Please follow the links provided in the assignment submission system for access.
 2. [Data Analysis with Python - freeCodeCamp](https://www.youtube.com/watch?v=r-uOLxNrNk8)
 3. [Kaggle - Python Data Visualization](https://www.kaggle.com/learn/data-visualization)
 
-
+---
 
 **Assignment 3**
 
@@ -260,7 +256,7 @@ Please follow the links provided in the assignment submission system for access.
 - [Time Series Analysis with Pandas](https://towardsdatascience.com/time-series-analysis-with-pandas-in-python-ef3e7f4a5c7e)**
 
 - [Intro to Time Series with Python](https://www.datacamp.com/courses/manipulating-time-series-data-in-python)**
-   - A course that covers the basics of working with time-series data.
+ 
 
 
 ---
@@ -270,7 +266,7 @@ Please follow the links provided in the assignment submission system for access.
 - [Python CSV Module](https://docs.python.org/3/library/csv.html)**
 
 - [Pandas I/O Operations](https://pandas.pydata.org/docs/user_guide/io.html)**
-   - Learn about reading and writing files in Pandas, focusing on CSV handling.
+
 
 ---
 
