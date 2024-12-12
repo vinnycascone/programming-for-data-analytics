@@ -4,10 +4,14 @@ This repository contains the assignments completed as part of the **Programming 
 
 ---
 
-## **Repository Structure**
-- **Assignments**: Contains all assignment-related work.
-- **My Work**: Contains additional self-directed work and exploration.
-- **Project**: Contains the final project for the module.
+## **How to Access the Repository**
+
+   - Through the main repository 'Programming for Data Analytics' that contains three repositories:
+
+     - `assignments`: Assignments 2, 3, 5, and 6.
+     - `mywork`: Independent exploration and work following the lectures
+     - `project`: Final project repository.
+   - Access the 'assignment' folder to see each submission.
 
 ---
 
@@ -75,8 +79,7 @@ This repository contains the assignments completed as part of the **Programming 
 ---
 
 ## **How to Access the Repository**
-Choose one of the following repository formats:
-**Repository Structure**:
+
    - Through the main repository 'Programming for Data Analytics' that contains three repositories:
 
      - `PFDA-assignments`: Assignments 2, 3, 5, and 6.
@@ -90,28 +93,28 @@ Choose one of the following repository formats:
 ## **Notes**
 - All code is thoroughly commented for ease of understanding.
 - All plots include proper labels, titles, and legends for clarity.
+- all the commits history in the 'assignment' folder got deleted, please refer to the main reposity's history
 
 
 ## **References**
 
 **Assignment 2**
 
-1. **Pandas**
+- **Pandas**
    - [Pandas Official Documentation](https://pandas.pydata.org/docs/)
-   - [Pandas Basics - Real Python](https://realpython.com/pandas-python/)
    - [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 
-2. **NumPy**
+- **NumPy**
    - [NumPy Official Documentation](https://numpy.org/doc/)
    - [NumPy Tutorial - W3Schools](https://www.w3schools.com/python/numpy_intro.asp)
    - [NumPy Essentials - DataCamp](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
 
-3. **Matplotlib**
+- **Matplotlib**
    - [Matplotlib Official Documentation](https://matplotlib.org/stable/contents.html)
    - [Matplotlib Basics - W3Schools](https://www.w3schools.com/python/matplotlib_intro.asp)
    - [Matplotlib Guide - GeeksforGeeks](https://www.geeksforgeeks.org/matplotlib-python-tutorial/)
 
-4. **Seaborn**
+- **Seaborn**
    - [Seaborn Official Documentation](https://seaborn.pydata.org/)
    - [Seaborn Guide - GeeksforGeeks](https://www.geeksforgeeks.org/python-seaborn-tutorial/)
    - [Seaborn for Statistical Data Visualization - Real Python](https://realpython.com/seaborn-python/)
@@ -120,39 +123,30 @@ Choose one of the following repository formats:
 
 ### Data Visualization Concepts
 
-1. **Time Series Plot**
-   - [Time Series Plotting in Matplotlib](https://matplotlib.org/stable/gallery/lines_bars_and_markers/date.html)
-   - [Time Series Analysis in Python - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-time-series-analysis-with-python/)
-
-2. **Scatter Plot**
-   - [Scatter Plots with Matplotlib - GeeksforGeeks](https://www.geeksforgeeks.org/scatter-plot-using-matplotlib/)
+- **Scatter Plot**
    - [Seaborn Scatter Plot Documentation](https://seaborn.pydata.org/generated/seaborn.scatterplot.html)
 
-3. **Correlation Heatmap**
+- **Correlation Heatmap**
    - [Seaborn Heatmap Documentation](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
-   - [Creating Heatmaps with Python - Towards Data Science](https://towardsdatascience.com/creating-correlation-heatmaps-with-seaborn-dc12e9f612fc)
-
 ---
 
 ### Statistical Concepts
 
-1. **Correlation Coefficient**
-   - [Correlation Coefficient - Khan Academy](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/correlation/v/correlation-coefficient)
+- **Correlation Coefficient**
+   - [Correlation in Python](https://realpython.com/numpy-scipy-pandas-correlation-python/)
    - [Understanding Correlation Coefficient](https://www.simplypsychology.org/correlation.html)
 
-2. **Negative Correlation**
+- **Negative Correlation**
    - [Understanding Negative Correlation - Investopedia](https://www.investopedia.com/terms/n/negative-correlation.asp)
 
 ---
 
 ### Data Wrangling and Cleaning
 
-1. **Datetime Handling in Pandas**
+- **Datetime Handling in Pandas**
    - [Datetime in Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html)
-   - [Working with Dates and Times in Pandas](https://towardsdatascience.com/working-with-dates-and-times-in-pandas-dataframe-663f7af6c587)
-   - [Pandas to_datetime() Examples](https://datatofish.com/convert-string-to-datetime-pandas/)
 
-2. **Value Counts and Sorting**
+- **Value Counts and Sorting**
    - [Pandas value_counts() Method](https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html)
    - [Sorting DataFrames in Pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html)
 
@@ -160,9 +154,9 @@ Choose one of the following repository formats:
 
 ### General Python Data Analysis Workflows
 
-1. [Python Data Science Handbook - O'Reilly](https://jakevdp.github.io/PythonDataScienceHandbook/)
-2. [Data Analysis with Python - freeCodeCamp](https://www.youtube.com/watch?v=r-uOLxNrNk8)
-3. [Kaggle - Python Data Visualization](https://www.kaggle.com/learn/data-visualization)
+- [Python Data Science Handbook - O'Reilly](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Data Analysis with Python - freeCodeCamp](https://www.youtube.com/watch?v=r-uOLxNrNk8)
+- [Kaggle - Python Data Visualization](https://www.kaggle.com/learn/data-visualization)
 
 ---
 
@@ -170,27 +164,21 @@ Choose one of the following repository formats:
 
 ### Libraries
 
-1. **Pandas**
+- **Pandas**
    - [Pandas Official Documentation](https://pandas.pydata.org/docs/)
    - [Pandas String Operations](https://pandas.pydata.org/pandas-docs/stable/user_guide/text.html)
    - [Pandas value_counts() Method](https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html)
 
-2. **Matplotlib**
+- **Matplotlib**
    - [Matplotlib Official Documentation](https://matplotlib.org/stable/contents.html)
    - [Creating Pie Charts with Matplotlib](https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html)
-   - [Customizing Matplotlib Pie Charts](https://www.datacamp.com/tutorial/matplotlib-pie-chart)
-
-3. **Pie Charts**
-   - [Best Practices for Pie Charts](https://data-to-viz.com/caveat/pie.html)
-   - [Exploding Pie Chart Slices](https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html)
 
 ---
 
 ### Practical Tutorials
 
-1. [Working with CSV Files in Pandas](https://realpython.com/python-csv/)
-2. [Creating Visualizations with Python](https://towardsdatascience.com/visualization-with-python-using-matplotlib-and-seaborn-f23461a7a938)
-3. [How to Parse Email Addresses in Python](https://stackoverflow.com/questions/21649483/how-to-parse-email-address-in-python)
+- [Working with CSV Files in Pandas](https://realpython.com/python-csv/)
+
 
 ---
 
@@ -198,81 +186,60 @@ Choose one of the following repository formats:
 
 ### Libraries
 
-1. **NumPy**
+- **NumPy**
    
    - [NumPy Official Documentation](https://numpy.org/doc/stable/)
 
    - [NumPy Random Module](https://numpy.org/doc/stable/reference/random/index.html)
 
-2. **Pandas**
+- **Pandas**
    
    - [Creating and Manipulating DataFrames](https://pandas.pydata.org/docs/user_guide/dsintro.html)
   
    - [Pandas GroupBy Operations](https://pandas.pydata.org/docs/user_guide/groupby.html)
 
-3. **Matplotlib**
+- **Matplotlib**
   
    - [Creating Histograms](https://matplotlib.org/stable/gallery/statistics/histogram_features.html)
   
    - [Customizing Bar Plots](https://matplotlib.org/stable/gallery/lines_bars_and_markers/bar_stacked.html)
 
-4. **Simulations**
+- **Simulations**
    - [Dice Rolling Simulations in Python](https://realpython.com/python-random/)
 
-5. **Data Analysis**
-  
-   - [Statistical Analysis with Pandas](https://pandas.pydata.org/docs/user_guide/statistics.html)
+- **Data Analysis**
   
    - [Creating Advanced Visualizations](https://seaborn.pydata.org/)
 
-4. **Histograms and Visualizations**
+- **Histograms and Visualizations**
  
    - [Best Practices for Histograms](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
-   
-   - [Customizing Legends and Titles in Matplotlib](https://matplotlib.org/stable/users/prev_whats_new/whats_new_2.1.html#legend-improvements)
 
 ---
 **Assignment 6**
 
 
 ### Data Manipulation with Pandas
-- [Pandas Official Documentation](https://pandas.pydata.org/docs/)**
+- [Pandas Official Documentation](https://pandas.pydata.org/docs/)
 
-- [Kaggle’s Pandas Tutorial](https://www.kaggle.com/learn/pandas)**
+- [Kaggle’s Pandas Tutorial](https://www.kaggle.com/learn/pandas)
 
 
 ---
 
 ### Data Visualization with Matplotlib
 
-- [Matplotlib Official Documentation](https://matplotlib.org/stable/users/index.html)**
+- [Matplotlib Official Documentation](https://matplotlib.org/stable/users/index.html)
 
-- [Matplotlib Tutorial by Real Python](https://realpython.com/python-matplotlib-guide/)**
+- [Matplotlib Tutorial by Real Python](https://realpython.com/python-matplotlib-guide/)
 
 ---
 
 ### Time Series Analysis
 
-- [Time Series Analysis with Pandas](https://towardsdatascience.com/time-series-analysis-with-pandas-in-python-ef3e7f4a5c7e)**
-
-- [Intro to Time Series with Python](https://www.datacamp.com/courses/manipulating-time-series-data-in-python)**
- 
-
+- [Intro to Time Series with Python](https://www.datacamp.com/courses/manipulating-time-series-data-in-python)
 
 ---
-
-### CSV Data and I/O Operations
-
-- [Python CSV Module](https://docs.python.org/3/library/csv.html)**
-
-- [Pandas I/O Operations](https://pandas.pydata.org/docs/user_guide/io.html)**
-
-
----
-
-### Weather and Climate Data Analysis
-
-- [Analyzing Climate Data in Python](https://towardsdatascience.com/analyzing-climate-data-with-python-pandas-and-matplotlib-367f1e6b706e)**
 
 
 
