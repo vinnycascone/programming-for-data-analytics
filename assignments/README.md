@@ -78,22 +78,10 @@ This repository contains the assignments completed as part of the **Programming 
 
 ---
 
-## **How to Access the Repository**
-
-   - Through the main repository 'Programming for Data Analytics' that contains three repositories:
-
-     - `PFDA-assignments`: Assignments 2, 3, 5, and 6.
-     - `PFDA-mywork`: Independent exploration and work.
-     - `PFDA-project`: Final project repository.
-   - Access the 'assignment' folder to see each submission.
-
-
----
-
 ## **Notes**
 - All code is thoroughly commented for ease of understanding.
 - All plots include proper labels, titles, and legends for clarity.
-- all the commits history in the 'assignment' folder got deleted, please refer to the main reposity's history
+- all the commits history in the 'assignment' folder got deleted, please refer to the main reposity's history for more info on my work
 
 
 ## **References**
