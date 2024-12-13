@@ -2,7 +2,7 @@
 
 # **Study References: Data Loading and Preprocessing in Python**
 
-## First part: 
+## Data Acquisition and cleaning: 
 
 ## **1. Working with CSV Files**
 Learn how to read and write CSV files with pandas:
