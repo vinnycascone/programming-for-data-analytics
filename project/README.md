@@ -4,14 +4,14 @@
 
 ## Data Acquisition and cleaning: 
 
-## **1. Working with CSV Files**
+## **Working with CSV Files**
 Learn how to read and write CSV files with pandas:
 - [pandas `read_csv` Documentation](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html)
 - [pandas `to_csv` Documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html)
 
 ---
 
-## **2. Inspecting Datasets**
+## **Inspecting Datasets**
 Understand how to explore and summarize your dataset:
 - [pandas `DataFrame.info` Documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.info.html)
 - [pandas `DataFrame.describe` Documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html)
@@ -19,7 +19,7 @@ Understand how to explore and summarize your dataset:
 
 ---
 
-## **3. Handling Missing Data**
+## **Handling Missing Data**
 Learn techniques for handling missing values:
 - [pandas `dropna` Documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html)
 - [pandas `fillna` Documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.fillna.html)
@@ -27,22 +27,33 @@ Learn techniques for handling missing values:
 
 ---
 
-## **4. Working with Dates**
+## **Working with Dates**
 Parsing and handling date-time columns in pandas:
 - [pandas `to_datetime` Documentation](https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html)
 - Article: [Working with Dates in Python Using pandas](https://realpython.com/python-datetime/)
 
 ---
 
-## **5. Saving and Organizing Data**
+## **Saving and Organizing Data**
 Exporting data to CSV files for later use:
 - [pandas `DataFrame.to_csv` Documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html)
 
 ---
 
-## **6. Python File Handling**
+## **Python File Handling**
 Learn about managing files and directories in Python:
 - [Python `os` Module Documentation](https://docs.python.org/3/library/os.html)
 - Article: [File Handling in Python](https://www.geeksforgeeks.org/file-handling-python/)
 
 ---
+
+# **Exploratory Data Analysis**
+
+**DataCamp: Time Series Plotting with Matplotlib**   
+   [Basics of time series plotting using Matplotlib](https://www.datacamp.com/community/tutorials/time-series-python)  
+
+**DelftStack: Seaborn Line Plots for Time Series**    
+   [Seaborn's `lineplot` to visualize time series data](https://www.delftstack.com/howto/python/seaborn-time-series-plot/)  
+
+
+
