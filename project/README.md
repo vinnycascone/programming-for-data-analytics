@@ -50,10 +50,10 @@ Learn about managing files and directories in Python:
 # **Exploratory Data Analysis**
 
 **DataCamp: Time Series Plotting with Matplotlib**   
-   [Basics of time series plotting using Matplotlib](https://www.datacamp.com/community/tutorials/time-series-python)  
+[Basics of time series plotting using Matplotlib](https://www.datacamp.com/community/tutorials/time-series-python)  
 
 **DelftStack: Seaborn Line Plots for Time Series**    
-   [Seaborn's `lineplot` to visualize time series data](https://www.delftstack.com/howto/python/seaborn-time-series-plot/)  
+[Seaborn's `lineplot` to visualize time series data](https://www.delftstack.com/howto/python/seaborn-time-series-plot/)  
 
 
 
