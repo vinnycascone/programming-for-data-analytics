@@ -1,4 +1,61 @@
 
+# programming-for-data-analytics
+
+# Wind Speed Analysis Project
+
+## Overview
+
+
+This project focuses on analyzing wind speed data using Python. By leveraging Jupyter Notebooks and powerful Python libraries, the goal is to process, visualize, and derive insights from the dataset provided.  
+
+The project can be used for applications such as forecasting wind speed, evaluating patterns over time, or assessing potential for renewable energy projects like wind farms.  
+
+
+
+## Structure and actions
+
+
+- **Data Preprocessing:** Cleaned and structured raw wind speed data.  
+- **Exploratory Data Analysis (EDA):** Visualized wind speed trends, distributions, and seasonal patterns.  
+- **Statistical Analysis:** Identified key metrics like mean, variance, and outliers in wind speed data.  
+- **Time Series Analysis:** Investigated temporal patterns to understand how wind speed evolves over time.  
+- **Predictive Modeling:** Explored machine learning techniques for wind speed prediction.  
+
+
+
+## Tools and Libraries
+
+
+This project utilizes the following tools and libraries:  
+- **Jupyter Notebook:** Interactive environment for running Python code.  
+- **Python Libraries:**  
+  - [Pandas](https://pandas.pydata.org/) for data manipulation.  
+  - [NumPy](https://numpy.org/doc/) for numerical computations.  
+  - [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) for data visualization.  
+  - [Statsmodels](https://www.statsmodels.org/) for time series analysis.  
+  - [Scikit-learn](https://scikit-learn.org/) for machine learning models (if applicable).  
+
+
+
+## Data Source
+
+
+The dataset used for this project contains wind speed measurements over a specific time period. (Update this section with details about the dataset, such as its origin or structure, if available.)  
+
+
+
+## Structure
+
+
+- **`windspeed.ipynb`**: The main Jupyter Notebook containing all code, analysis, and visualizations. 
+- **README.md** with the extended library and study references 
+- **Data Folders:** Includes the raw dataset files used for the analysis:
+  - **cleaned_wind_data** refers to the analyzed dataset [MTM04 - Wind, Maximum Gale Gust (>33.5 Knots)](https://data.gov.ie/dataset/mtm04-wind-maximum-gale-gust-335-knots/resource/855de0b5-1e1b-4291-a3f7-0f706b0c44a7)
+  - **mly532** 
+  
+
+-------
+
 
 # **Study References: Data Loading and Preprocessing in Python**
 
@@ -69,11 +126,11 @@
 
 
 ## Python Data Science and Libraries
--⁠  ⁠**[Pandas Documentation](https://pandas.pydata.org/)**  
+-⁠  ⁠[Pandas Documentation](https://pandas.pydata.org/)  
 
--⁠  *⁠*[NumPy Documentation](https://numpy.org/doc/)**
+-⁠  [NumPy Documentation](https://numpy.org/doc/)
 
--⁠  ⁠**[Matplotlib Documentation](https://matplotlib.org/stable/contents.html)** 
+-⁠  ⁠[Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
 -⁠  ⁠**[Seaborn Documentation](https://seaborn.pydata.org/)**
 
