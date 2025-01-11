@@ -6,7 +6,7 @@
 ## Overview
 
 
-This project, made by Vincenzo Cascone for the Programming for Data Analytics module, focuses on analyzing wind speed data using Python. The code has been executed leveraging Jupyter Notebooks and powerful Python libraries and the goal of it is to process, visualize, and derive insights from the dataset provided about the windspeed across the country. 
+This project, made by Vincenzo Cascone for the Programming for Data Analytics module, focuses on analyzing wind speed data using Python. The code has been executed leveraging Jupyter Notebooks and powerful Python libraries and the goal of it is to process, visualize, and derive insights from the dataset downloaded about the windspeed across the country. 
 
 The project has been made also for forecasting wind speed, evaluating patterns over time, and assessing potential for renewable energy projects like wind farms.  
 
