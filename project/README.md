@@ -42,7 +42,7 @@ This project utilizes the following tools and libraries:
 
 The datasets used for this project contains wind speed measurements over a specific time period:
 - [MTM04 - Wind, Maximum Gale Gust (>33.5 Knots)](https://data.gov.ie/dataset/mtm04-wind-maximum-gale-gust-335-knots/resource/855de0b5-1e1b-4291-a3f7-0f706b0c44a7)
-- [Dublin Airport Monthly Data](https://data.gov.ie/dataset/dublin-airport-monthly-data/resource/f43c57e5-5bab-4dc2-9318-24c31525878a)
+- [Historical Data - Irish meteorological weather](https://www.met.ie/climate/available-data/historical-data)
 
 
 
@@ -66,6 +66,7 @@ The datasets used for this project contains wind speed measurements over a speci
 
 ## **Weather Library**
 - [MTM04 - Wind, Maximum Gale Gust (>33.5 Knots)](https://data.gov.ie/dataset/mtm04-wind-maximum-gale-gust-335-knots/resource/855de0b5-1e1b-4291-a3f7-0f706b0c44a7)
+- [Historical Data - Irish meteorological weather](https://www.met.ie/climate/available-data/historical-data)
 
 ## **Working with CSV Files**
 
